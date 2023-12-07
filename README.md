@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cybertek3
 - 👀 I’m interested in coding in C, C++ and Python
-- 🌱 I’m currently learning C++ and Python 3
+- 🌱 I’m currently improving my knowledge and learning experiences in C++ and Python 3 and including GUI packages 
 - 💞️ I’m looking to collaborate on Robotics
 - 📫 How to reach me ...
 
